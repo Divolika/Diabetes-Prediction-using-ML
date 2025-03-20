@@ -2,7 +2,7 @@
 
 This repository demonstrates diabetes prediction using various machine learning algorithms implemented in Python. It includes preprocessing steps, model training, evaluation, and visualization of results using popular libraries such as pandas, scikit-learn, matplotlib, seaborn, and XGBoost.
 
-## Dataset
+## Datasets
 
 The dataset used in this project is named `diabetes.csv`, which contains various health-related features along with the target variable indicating diabetes outcome (0: No diabetes, 1: Diabetes). It is loaded into a pandas DataFrame for further processing.
 
